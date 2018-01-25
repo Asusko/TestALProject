@@ -8,7 +8,7 @@
       "server": "http://nav2018:7049",
       "serverInstance": "NAV",
       "authentication": "UserPassword",
-      "startupObjectId": 21,
+      "startupObjectId": 21
     }
   ]
 }
