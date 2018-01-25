@@ -1,0 +1,23 @@
+{
+  "id": "a67a7cab-6845-4eb4-8dd0-255366bd02e1",
+  "name": "TestALProj",
+  "publisher": "Stanislav F.",
+  "brief": "",
+  "description": "Project for testing new features",
+  "version": "1.0.0.4",
+  "compatibilityId": "0.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "logo/Stannis.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.12925.0",
+  "application": "11.0.19846.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
